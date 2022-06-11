@@ -1,0 +1,85 @@
+strong{
+    text-align: center;
+}
+
+a{
+    color: black;
+}
+
+h1{
+    text-align: center;
+}
+
+#ava{
+    width: 1423px;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+span{
+    text-align: center;
+}
+
+.test{
+    text-align: center;
+    border: 1;
+    background-color: Gainsboro;
+    line-height: 60px;
+    margin-right: auto;
+    border-radius: 10px;
+ 
+}
+
+#footer{
+    color: black;
+    font-weight: bold;
+    line-height: normal;
+}
+
+.header{
+    display: flex;
+    background-color: darkseagreen; 
+    align-items: center; 
+    height: 3em;
+    padding-left: 10px;
+    justify-content: space-between;
+}
+
+#main{
+    margin-right: 300px;
+}
+
+#block{
+    float: right;
+    border: 1;
+    border-radius: 10px;
+    width: 270px;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 3px;
+    margin-top: 10px;   
+}
+
+.sk{
+    font-weight: bold;
+}
+
+#connection{
+    /*Блок подвала*/
+    height: 180px; /*Высота блока подвала*/
+    background-color:azure; /*Фон блока*/
+    margin-bottom: 10px; /*Отступ снизу*/
+    border-radius: 5px; /*Закруглённые углы*/
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 3px; /*Тень блока*/
+    width: 270px;
+    float: right;
+}
